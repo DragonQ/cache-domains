@@ -1,0 +1,21 @@
+{
+    "ips": {
+        "generic":    "192.168.1.92"
+    },
+    "cache_domains": {
+        "arenanet":     "generic",
+        "blizzard":     "generic",
+        "epicgames":    "generic",
+        "frontier":     "generic",
+        "hirez":        "generic",
+        "nintendo":     "generic",
+        "origin":       "generic",
+        "riot":         "generic",
+        "rockstar":     "generic",
+        "sony":         "generic",
+        "steam":        "generic",
+        "uplay":        "generic",
+        "wargaming":    "generic",
+        "xboxlive":     "generic"
+    }
+}
